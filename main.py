@@ -4,8 +4,8 @@ import json
 import random
 from datetime import datetime
 
-TOKEN = "توکن_ربات_تو_اینجا"
-OWNER_ID = 123456789  # آیدی خودت
+TOKEN = "8246648556:AAG6yvrLYsQN-GlgdrPBgBWmNmKfNE4bgWo"
+OWNER_ID = 7776714237  # آیدی خودت
 DATA_FILE = "data.json"
 BOT_STATUS = {"active": True}
 
