@@ -6,8 +6,8 @@ import random
 import os
 
 # ====== تنظیمات اولیه ======
-TOKEN = "YOUR_BOT_TOKEN"
-OWNER_USERNAME = "iliaManzari"  # بدون @
+TOKEN = "8246648556:AAG6yvrLYsQN-GlgdrPBgBWmNmKfNE4bgWo"
+OWNER_USERNAME = "iliaManz"  # بدون @
 
 bot = telebot.TeleBot(TOKEN)
 data_file = "data.json"
